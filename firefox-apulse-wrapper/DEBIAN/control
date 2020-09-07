@@ -1,0 +1,8 @@
+Package: firefox-apulse-wrapper
+Version: 1.0
+Maintainer: Danil Kichay <kichay.d@gmail.com>
+Architecture: all
+Section: misc
+Depends: dash, apulse
+Conflicts: pulseaudio
+Description: apluse wrapper for firefox browser
